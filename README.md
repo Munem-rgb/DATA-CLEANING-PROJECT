@@ -1,4 +1,4 @@
-# DATA CLEANING PROJECT
+# ANALYZING ANIME DATA PROJECT
 Tools: Python (Pandas), SQL
 
 This project focuses on cleaning and preparing raw datasets by
